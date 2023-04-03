@@ -25,11 +25,28 @@ Even if someone gets their hands on the flash drive, it should be encrypted.
 
 -Notifications when changes happen
 
+(Cross Site Scripting): preventing a common cross site script attack
+
+Made a js function for my loging:
+
+Not yet in the website but works on my test site: 
+
+will link script -
+
+function preventcss() {
+	var query = new URL(window.location).searchParams.get('query')
+	document.getElementById('query-input').value = query
+	document.getElementById('query-output').innerHTML = query
+}
+
+once I have the page ready, i will implament said js file
+
+
 TODO:
 
 -Add images
 
--Add js
+-Add js function to stop Cross Site Scripting (already made)
 
 -get domain
 
