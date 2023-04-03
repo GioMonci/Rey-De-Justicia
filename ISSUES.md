@@ -44,24 +44,23 @@ once I have the page ready, i will implament said js file
 
 TODO:
 
--Add images
+-Add images - prority: ASAP; implamentation: easy;
 
--Add js function to stop Cross Site Scripting (already made)
+-Add js function to stop Cross Site Scripting (already made): prority: ASAP; implamentation: moderate; (need to finish loggin page)
 
--get domain
+-get domain prority: Moderate; implamentation: easy;
 
--host on godaddy
+-host on godaddy prority: Low; implamentation: moderate;
 
--create login
+-create login prority: ASAP; implamentation: Difficult;
 
--test for bugs
+-test for bugs prority: ASAP; implamentation: moderate;
 
--prevent cross site scripting
+-prevent cross site scripting prority: ASAP; implamentation: difficult (find more vulnerabilites);
 
 4/8/23
-
--Work on: implamenting thrid party frameworks / packages (keep them up to date) 
-
 -add images 
 
 -test for bugs
+
+-finish login page
