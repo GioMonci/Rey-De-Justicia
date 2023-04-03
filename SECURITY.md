@@ -11,4 +11,4 @@
 
 ## Reporting a Vulnerability
 
-Send me a message over linkedin or through the repo
+Send me a message over linkedin, through the repo, or comment here!
