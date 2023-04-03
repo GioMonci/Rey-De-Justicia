@@ -1,3 +1,5 @@
+Security issues fix or todo:
+
 4/3/2023
 
 Changes:
@@ -16,3 +18,11 @@ TODO:
 - create login
 - test for bugs
 - prevent cross site scripting
+
+
+4/8/23
+
+Work on:
+implamenting thrid party frameworks / packages (keep them up to date)
+add images
+test for bugs
