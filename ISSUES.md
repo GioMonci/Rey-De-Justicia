@@ -39,7 +39,8 @@ function preventcss() {
 	document.getElementById('query-output').innerHTML = query
 }
 
-once I have the page ready, i will implament said js file
+Once I have the page ready, i will implament said js file. Page is 50% done. HTML side is finished. Going to CSS up the loggin page.
+Then the js file will be implamented. Loggin page is seperate from index.html
 
 
 TODO:
