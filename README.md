@@ -1,28 +1,11 @@
-Security issues fix or todo:
+Rey De Justica Website
 
-4/3/2023
+Intro
 
-Changes:
-- uploaded website to github - enfored HTTPS
-- Website files saved on OneDrive
-- Website files saved physically on Hard Drive
-- Notifications when changes happen
-- Interal Actor threats account for with change above
-- 
+This is the site for the church rey de justicia
 
-TODO:
-- Add images
-- Add js
-- get domain
-- host on godaddy
-- create login
-- test for bugs
-- prevent cross site scripting
+URL
+https://giomonci.github.io/Rey-De-Justicia/
 
-
-4/8/23
-
-Work on:
-implamenting thrid party frameworks / packages (keep them up to date)
-add images
-test for bugs
+Author
+Giovanni Moncibaez
