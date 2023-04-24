@@ -1,5 +1,5 @@
 # Project Iteration 2: 3 Items Fixed with Report
-* [Document W/ Report]() - Documentation
+* [Document W/ Report](https://github.com/GioMonci/Rey-De-Justicia/blob/main/documentation/project_iteration2.pdf) - Documentation
 
 # Youtube Video of Website Working
 * [Youtube Link](https://www.youtube.com/watch?v=iNxV4df0NGU) - Video
