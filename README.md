@@ -1,6 +1,9 @@
 # Project Iteration 2: 3 Items Fixed with Report
 * [Document W/ Report](https://github.com/GioMonci/Rey-De-Justicia/blob/main/documentation/project_iteration2.pdf) - Documentation
 
+Hey Professor Greenwell, welcome to the project! Above is the document report for iteration 2 and below is a video of the webiste in its current state.
+Thank you in advance for the feedback, all is appreciated 
+
 # Youtube Video of Website Working
 * [Youtube Link](https://www.youtube.com/watch?v=iNxV4df0NGU) - Video
 
