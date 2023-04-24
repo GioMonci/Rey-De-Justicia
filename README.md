@@ -1,6 +1,9 @@
 # Project Iteration 2: 3 Items Fixed with Report
 * [Document W/ Report]() - Documentation
 
+# Youtube Video of Website Working
+* [Youtube Link](https://www.youtube.com/watch?v=iNxV4df0NGU) - Video
+
 # Iglesia Rey De Justicia website
 
 This website is for the church known as Rey De Justicia. It is a Website that allows for anyone to get on and look at who they are, what they do, events, videos, ect. The website also has a backend where memebers will be able to sign-up and view their donations that they have given. From their they will be able to get all records store of their donation history so when tax season comes around, they have a receipts.
