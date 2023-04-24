@@ -5,8 +5,8 @@ if(isset($_POST['login-submit'])){
 
     require 'dbh.inc.php';
 
-    $mailuid = $_POST['mailuid'];
-    $password = $_POST['pwd'];
+    $mailuid = mysqli_real_escape_string($conn,$_POST['mailuid']);
+    $password = mysqli_real_escape_string($conn,$_POST['pwd']);
 
     if(empty($mailuid) || empty($password)){
         header("Location: ../donations.php?error=emptyFields");
