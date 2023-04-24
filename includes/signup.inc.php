@@ -5,10 +5,12 @@ if(isset($_POST['signup-submit'])){
 
     require 'dbh.inc.php';
 
-    $username = $_POST['uid'];
-    $email = $_POST['mail'];
-    $password = $_POST['pwd'];
-    $passwordRepeat = $_POST['pwd-repeat'];
+    // mysqli_real_escape_string() used so that escape special characters in a string
+    //help prevent php injection
+    $username = mysqli_real_escape_string($conn,$_POST['uid']);
+    $email = mysqli_real_escape_string($conn,$_POST['mail']);
+    $password = mysqli_real_escape_string($conn,$_POST['pwd']);
+    $passwordRepeat = mysqli_real_escape_string($conn,$_POST['pwd-repeat']);
 
     if(empty($username) || empty($email) || empty($password) || empty($passwordRepeat) ){
         header("Location: ../signup.php?error=empty_Fields&uid=".$username."&mail=".$email);
